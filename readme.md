@@ -1,13 +1,13 @@
-Install Dependencies
+## Install Dependencies
 
-npm install
-
-
-Run Dev Server
-
-npm run dev
+`npm install`
 
 
-Production Build
+## Run Dev Server
 
-npm run build
+`npm run dev`
+
+
+## Production Build
+
+`npm run build`
